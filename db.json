@@ -1,0 +1,90 @@
+{
+    "books":[{
+    "id":1,
+     "author":"Stephen King",
+     "title":"Fairy tales",
+     "imgSrc":"fairy_tale_img.jpeg",
+     "language":"EN",
+     "description":"Blablabla",
+     "year":2023,
+     "themes":[1,2,3]
+     },
+     {
+      "id":2,
+     "author":"Stephen King",
+     "title":"Holly",
+     "imgSrc":"holly.jpg",
+     "language":"EN",
+     "description":"Blablabla",
+     "year":2023,
+     "themes":[1,2,3]
+     },{
+       "id":3,
+     "author":"Stephen King",
+     "title":"The Outsider",
+     "imgSrc":"theoutsider.jpg",
+     "language":"EN",
+     "description":"Blablabla",
+     "year":2023,
+     "themes":[1,2,3]
+     },
+     {
+    "id":10,
+     "author":"Stephen King",
+     "title":"Fairy tales",
+     "imgSrc":"fairy_tale_img.jpeg",
+     "language":"EN",
+     "description":"Blablabla",
+     "year":2023,
+     "themes":[1,2,3]
+     },
+     {
+      "id":20,
+     "author":"Stephen King",
+     "title":"Holly",
+     "imgSrc":"holly.jpg",
+     "language":"EN",
+     "description":"Blablabla",
+     "year":2023,
+     "themes":[1,2,3]
+     },{
+       "id":30,
+     "author":"Stephen King",
+     "title":"The Outsider",
+     "imgSrc":"theoutsider.jpg",
+     "language":"EN",
+     "description":"Blablabla",
+     "year":2023,
+     "themes":[1,2,3]
+     },
+     {
+    "id":100,
+     "author":"Stephen King",
+     "title":"Fairy tales",
+     "imgSrc":"fairy_tale_img.jpeg",
+     "language":"EN",
+     "description":"Blablabla",
+     "year":2023,
+     "themes":[1,2,3]
+     },
+     {
+      "id":200,
+     "author":"Stephen King",
+     "title":"Holly",
+     "imgSrc":"holly.jpg",
+     "language":"EN",
+     "description":"Blablabla",
+     "year":2023,
+     "themes":[1,2,3]
+     },{
+       "id":300,
+     "author":"Stephen King",
+     "title":"The Outsider",
+     "imgSrc":"theoutsider.jpg",
+     "language":"EN",
+     "description":"Blablabla",
+     "year":2023,
+     "themes":[1,2,3]
+     }
+    ]
+    }
